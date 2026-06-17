@@ -21,7 +21,6 @@ Dự án tập trung vào thiết kế mạng logic, thiết kế mạng vật l
 - Lập kế hoạch phân chia VLAN theo từng khu vực chức năng.
 - Đề xuất triển khai thiết bị mạng như Access Switch, Core Switch, Firewall, WLC và Access Point.
 - Xây dựng sơ đồ topo mạng.
-- Chuẩn bị slide thuyết trình kỹ thuật cho dự án.
 
 ## Công nghệ và kiến thức sử dụng
 
