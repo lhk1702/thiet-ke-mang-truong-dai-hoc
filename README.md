@@ -71,4 +71,3 @@ docs/          Báo cáo dự án
 diagrams/      Sơ đồ mạng logic và vật lý
 configs/       Cấu hình thiết bị mạng
 screenshots/   Ảnh chụp kết quả giám sát và kiểm thử
-slides/        Slide thuyết trình
