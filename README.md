@@ -15,7 +15,7 @@ Dự án tập trung vào thiết kế mạng logic, thiết kế mạng vật l
 - Giám sát hiệu năng mạng bằng PRTG và SNMP.
 - Đánh giá hiệu năng mạng dựa trên độ trễ, mất gói, băng thông, CPU/RAM và trạng thái cảnh báo.
 
-## Vai trò của tôi
+## Vai trò cá nhân
 
 - Thiết kế kiến trúc mạng vật lý và mạng logic.
 - Lập kế hoạch phân chia VLAN theo từng khu vực chức năng.
