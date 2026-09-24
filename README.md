@@ -1,12 +1,12 @@
 # Thiết kế và Đánh giá Hiệu năng Mạng cho Trường Đại học
 
-## Tổng quan dự án
+## Tổng quan đề tài
 
 Đây là dự án thiết kế và đánh giá hạ tầng mạng cho một trường đại học quy mô vừa, bao gồm các khu vực như giảng đường, phòng thực hành máy tính, khu hành chính, phòng máy chủ, mạng không dây và hệ thống camera giám sát.
 
 Dự án tập trung vào thiết kế mạng logic, thiết kế mạng vật lý, phân chia VLAN, triển khai firewall, Wireless LAN Controller, Access Point, hệ thống giám sát mạng và đánh giá hiệu năng mạng.
 
-## Mục tiêu dự án
+## Mục tiêu đề tài
 
 - Thiết kế hệ thống mạng ổn định, bảo mật và có khả năng mở rộng.
 - Phân chia mạng thành các VLAN riêng biệt cho sinh viên, hành chính, máy chủ, phòng thực hành và thiết bị IoT/camera.
@@ -43,7 +43,7 @@ Dự án tập trung vào thiết kế mạng logic, thiết kế mạng vật l
 - Dynamic ARP Inspection
 - Network Performance Evaluation
 
-## Điểm nổi bật
+## Điểm nổi bật của đề tài
 
 - Thiết kế kiến trúc mạng phân cấp ba lớp: Core, Distribution và Access.
 - Phân đoạn mạng bằng VLAN để tăng bảo mật và quản lý lưu lượng hiệu quả.
